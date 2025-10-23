@@ -50,8 +50,8 @@ Ejemplo básico:
 Producto compu = new Computadora(1000, "ASUS", 5, "TUF Gaming", 16, 512, true);
 Cajero cajero = new Cajero("Juan", compu, 2);
 System.out.println("Precio Final: " + cajero.calcularPrecioFinal());
-
+```
 ```bash
 Precio Final: 2200.0
-
+```
 Aca no puedo seguir escribiendo
