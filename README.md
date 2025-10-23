@@ -46,13 +46,12 @@ Incluye documentación generada con **JavaDoc**.
 ## Uso
 Podés ejecutar la aplicación desde la línea de comandos o integrarla a un entorno IDE (Eclipse, VS Code con extensión de Java).
 Ejemplo básico:
-   ```java ````
+```java
 Producto compu = new Computadora(1000, "ASUS", 5, "TUF Gaming", 16, 512, true);
 Cajero cajero = new Cajero("Juan", compu, 2);
-System.out.println("Precio Final: " + cajero.calcularPrecioFinal()); ```
+System.out.println("Precio Final: " + cajero.calcularPrecioFinal());
 
-Salida Esperada:
-```java````
-Precio Final: 2200.0 ```
+```bash
+Precio Final: 2200.0
 
-
+Aca no puedo seguir escribiendo
