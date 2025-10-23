@@ -54,4 +54,17 @@ System.out.println("Precio Final: " + cajero.calcularPrecioFinal());
 ```bash
 Precio Final: 2200.0
 ```
-Aca no puedo seguir escribiendo
+## Ejemplos / Capturas
+Documentación JavaDoc
+Abrir el archivo doc/index.html en el navegador para ver la documentación completa del proyecto.
+
+
+
+## Autor
+Juan Manuel Eguía
+juanma.eguia@gmail.com
+Argentina
+
+## Licencia
+Este proyecto está bajo la licencia MIT.
+Proyecto desarrollado con fines académicos para prácticas de POO (Programación Orientada a Objetos) y documentación JavaDoc.
