@@ -8,9 +8,9 @@ Incluye documentación generada con **JavaDoc**.
 ---
 
 ## Estado del Proyecto
-✅ **Completado y funcional**  
-🧩 Estructura modular y documentada  
-📘 Incluye pruebas y ejemplos básicos  
+ **Completado y funcional**  
+ Estructura modular y documentada  
+ Incluye pruebas y ejemplos básicos  
 
 ---
 
@@ -24,8 +24,8 @@ Incluye documentación generada con **JavaDoc**.
 ---
 
 ## Tecnologías Utilizadas
-- **Lenguaje:** Java 17+  
-- **Entorno:** JDK + Git Bash / CMD  
+- **Lenguaje:** Java
+- **Entorno:** JDK + Git Bash
 - **Documentación:** JavaDoc  
 - **Control de versiones:** Git / GitHub  
 
@@ -36,3 +36,23 @@ Incluye documentación generada con **JavaDoc**.
 2. Clonar el repositorio:
    ```bash
    git clone https://github.com/juaneguia/tiendaInformaticaDoc.git
+3. Navegar al directorio del proyecto:
+   ```bash
+   cd tiendaInformaticaDoc
+4. Compilar las clases:
+   ```bash
+   javac src/ejercicio1/*.java
+ 
+## Uso
+Podés ejecutar la aplicación desde la línea de comandos o integrarla a un entorno IDE (Eclipse, VS Code con extensión de Java).
+Ejemplo básico:
+   ```java ````
+Producto compu = new Computadora(1000, "ASUS", 5, "TUF Gaming", 16, 512, true);
+Cajero cajero = new Cajero("Juan", compu, 2);
+System.out.println("Precio Final: " + cajero.calcularPrecioFinal()); ```
+
+Salida Esperada:
+```java````
+Precio Final: 2200.0 ```
+
+
