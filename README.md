@@ -3,7 +3,7 @@
 ## Descripción
 Proyecto en Java que simula el funcionamiento básico de una **tienda informática**, permitiendo gestionar productos como **computadoras** e **impresoras**, calcular precios finales según sus características y mantener control sobre el **stock** y la **venta de productos** a través de un **cajero**.  
 
-*Incluye documentación generada con **JavaDoc**. *
+_Incluye documentación generada con **JavaDoc**._
 
 ---
 
