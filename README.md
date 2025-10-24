@@ -60,7 +60,7 @@ Precio Final: 2200.0
 Documentación JavaDoc  
 Abrir el archivo doc/index.html en el navegador para ver la documentación completa del proyecto.
 
-![Vista del Javadoc](img/javadoc.png)
+![Vista del Javadoc](https://github.com/juaneguia/tiendaInformaticaDoc/blob/main/img/javadoc.png?raw=true)
 
 ---
 
