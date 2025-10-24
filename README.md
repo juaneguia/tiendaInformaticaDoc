@@ -42,6 +42,8 @@ _Incluye documentación generada con **JavaDoc**._
 4. Compilar las clases:
    ```bash
    javac src/ejercicio1/*.java
+
+---
  
 ## Uso
 Podés ejecutar la aplicación desde la línea de comandos o integrarla a un entorno IDE (Eclipse, VS Code con extensión de Java).
@@ -60,17 +62,9 @@ Abrir el archivo doc/index.html en el navegador para ver la documentación compl
 
 ![Vista del Javadoc](img/javadoc.png)
 
+---
+
 | **Autor** | **Licencia** | 
 |------------|------------|
 | Juan Manuel Eguía      | Este proyecto está bajo la licencia MIT.     | 
 | juanma.eguia@gmail.com     | Proyecto desarrollado con fines académicos para prácticas de POO (Programación Orientada a Objetos) y documentación JavaDoc.    | 
-
-
-
-
- 
-
-
-
- 
-
