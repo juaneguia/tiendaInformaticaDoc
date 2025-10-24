@@ -60,7 +60,7 @@ Abrir el archivo doc/index.html en el navegador para ver la documentación compl
 
 ![Vista del Javadoc](img/javadoc.png)
 
-| ##Autor | ##Licencia | 
+| **Autor** | **Licencia** | 
 |------------|------------|
 | Juan Manuel Eguía      | Este proyecto está bajo la licencia MIT.     | 
 | juanma.eguia@gmail.com     | Proyecto desarrollado con fines académicos para prácticas de POO (Programación Orientada a Objetos) y documentación JavaDoc.    | 
